@@ -2,16 +2,15 @@
 MITxPro This project was a required component of the MITxPro Full Stack Developer Course
 
 <h1>Description</h1>
-This program displays a World Map which automatically centers on Boston. The program then tracks a bus on Boston's Route 1. The location of the bus is displayed via a marker and is then updated every 15 seconds. 
+This program utilizes HTML, CSS, and Javascript to create two eyes onscreen which then follow the User's mouse movements around the screen with its pupils. 
 
 <h1>How to Run</h1>
-To run this program download the files and place in a folder together. Then drag and drop the index.html file to a browser. Click on the "Update Bus Route 1" button to begin tracking the bus. 
+To run this program download the files and place in a folder together. Then drag and drop the index.html file to a browser. The eyes should appear and begin tracking the movements of the User's mouse immediately. 
 
 <h1>Roadmap of Future Improvements</h1>
 
-1. Track all buses on Route 1 simultaneously.
-2. Create a different marker for each bus on route 1. 
-
+1. In future I would like to create a button that randomizes the shapes and colors of the eyes. 
+2. Create a feature that adds more eyes to the screen in a grid. 
 
 <h1>Licensing</h1>
 
